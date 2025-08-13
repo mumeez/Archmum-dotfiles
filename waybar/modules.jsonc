@@ -1,0 +1,8 @@
+
+"modules-right": ["weather", ...],
+"weather": {
+  "format": "{icon} {temp}°",
+  "location": "San Luis Obispo, CA",
+  "apikey": "YOUR_API_KEY_HERE",
+  "units": "metric"
+}

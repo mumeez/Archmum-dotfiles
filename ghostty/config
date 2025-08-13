@@ -1,0 +1,14 @@
+font-family = "Fira Code Nerd Font Mono"
+font-size = 9.5
+#window-padding-x = 4
+theme = "catppuccin-mocha"
+
+keybind = ctrl+r=reload_config
+
+keybind = ctrl+k=new_split:up
+keybind = ctrl+j=new_split:down
+keybind = ctrl+h=new_split:left
+keybind = ctrl+l=new_split:right
+
+keybind = ctrl+t=new_tab 
+
